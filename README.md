@@ -57,8 +57,5 @@ The rest is full-stack product work — TypeScript on the front, Python on the b
 - Eleven hackathons, six wins, including a McGill Engine pitch competition and two PharmaHacks podiums
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Arty2001&show_icons=true&hide_border=true&theme=tokyonight&hide_title=true&card_width=440" alt="GitHub stats" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arty2001&layout=compact&hide_border=true&theme=tokyonight&card_width=320&langs_count=6" alt="Top languages" height="165" />
-
+<sub>Every repo above has a README that explains the engineering, not just the setup steps.</sub>
 </div>
