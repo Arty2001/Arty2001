@@ -37,6 +37,13 @@ The rest is full-stack product work — TypeScript on the front, Python on the b
 | **[Net-Worth Projector](https://github.com/Arty2001/CONUHACKS_2024)** | ConUHacks 2024, SunLife challenge. A Python engine does real Quebec marginal-bracket math and models inflation outrunning wage growth, so the projection erodes honestly instead of flattering you. |
 | **[Microbiome Classifier](https://github.com/Arty2001/PHYLA_CHALLENGE_2)** | Multi-class disease prediction from 1,094 gut-bacteria abundance features, where a 6:1 class imbalance is the actual boss fight. SMOTE-balanced deep classifier benchmarked against classical baselines. |
 
+## Built with other people
+
+| Project | My part |
+| --- | --- |
+| **[NURO](https://github.com/reheant/NURO)** · [demo video](https://www.youtube.com/watch?v=Xg-xnQyxqBo) | A wearable assistant for dementia patients — reminders, geo-fenced location tracking, and an AI voice that answers "who did I meet today?" from its own recordings. Raspberry Pi and mic on the hardware side; live speaker diarization through an FFMPEG pipeline, a Solace event broker, and vector search behind it. Hackathon winner. I built the caregiver-facing frontend. |
+| **[PictoDocReader](https://github.com/mattcab2002/PictoDocReader)** | Ctrl-F, but for images inside a document. Five search strategies benchmarked against each other by time complexity — corner matching, linear, diagonal, random-sample, and a 2D Knuth–Morris–Pratt variant — behind a Dash interface. **Best Hack for Education, McHacks 2022.** I wrote the image-to-pixel-matrix conversion the searches run on, and the match outline rendering. |
+
 ## Stack
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
